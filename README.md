@@ -16,6 +16,13 @@ Key Differences in Weather between June and December
 ## SUMMARY OF FINDINGS:
 To summarize, the month of December would provide suitable weather conditions for both surfing and much likely to have ice cream still in the season even though temperatures recorded seem to be more than the temperature in June. 
 The average temperatures in the months of June and December varied by 4 degrees, It would be ill advised to not open the surf and ice cream shop based on the recorded difference in temperatures.
+Before coming to a final conclusion of analysis, we could perform some additional queries to get detailed data on weather conditions in these two months.
+
+<li>To be specific, I would like to go through the summary statistics of temperatures recorded by station for each month. This can help determine geopgraphically where in Oahu to build the prospective shop. By comparing the variances in temperatures and the frequencies recorded, we can narrow in on an optimal location.
+i.e. Stations vs Temps for June and December </li>
+
+<li>For further analysis I recommend to review other important variables that are in direct relation with optimal beach and surfing weather. This varibles include precipitation, busy surfing locations, wave swells and wind condition. This also might have some contrasting adequate conditions based on surfing vs sunbathing, it is significant to identify those conditions and see how they relates to walking traffic to the beach depending on the month of year. As per my past experience it is not recommended to focus only on single variable such as temperatures as the key indicator for opening a business.</li>
+
 
 ![JUNE_TEMPS](https://user-images.githubusercontent.com/86158802/131258611-74df9205-8162-4c6e-8494-2f73504d8699.PNG)
 ![DEC_TEMPS](https://user-images.githubusercontent.com/86158802/131258594-777896ea-3ca1-479a-a952-6cefe2cb4aa6.PNG)
